@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Rysbaev Omurbek
 
-- 🌱 I’m QA Course by Vadim Ksenzov (Jan 2022 - April  2022)
+- 🌱 I’m QA Course by Vadim Ksenzov (Nov 2021 - March  2022)
 - 🔭 git,gitbash 
 - 👯 Postman ...
 - 🤔  SQL Dbeaver ...
